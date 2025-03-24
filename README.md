@@ -7,7 +7,7 @@ Developed an industrial automation system using Controller Area Network (CAN) fo
 **Technologies Used:**
 
 *   **Microcontrollers:** STM32, ESP 32
-*   **CAN Controller + Transceiver:** MCP2515
+*   **CAN Controller :** MCP2515
 *   **CAN Transceivers:** SN65HVD230, MCP2551, TJA1050 (any one)
 *   **Programming Languages:** Embedded C
 *   **Communication Protocol:** CAN 2.0B
